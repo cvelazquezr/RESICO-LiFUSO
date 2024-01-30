@@ -1,0 +1,7 @@
+# Folders
+.vscode/
+.bloop/
+target/
+
+# Files
+.DS_Store
